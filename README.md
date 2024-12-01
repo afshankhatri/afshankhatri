@@ -1,20 +1,22 @@
-<h1 align="center">Heyyaaa! Khatri Mohammed Afshan Here!</h1>
+<h1 align="center">Heyyaaa! Khatri Mohammed Afshan</h1>
 <h3 align="center">Code karo,BisKut khaoao! Passionate Computer Engg.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afshankhatri&label=Profile%20views&color=0e75b6&style=flat" alt="afshankhatri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afshankhatri" alt="afshankhatri" /></a> </p>
 
+- 🌱 I’m currently exploring **Machine Learning**
+
+- 👯 I’m looking to collaborate in **AIML releted group learning**
+
+- 💬 Ask me about **Web-dev**
+
+- 📫 How to reach me **afshan.221725.cs@mhssce.ac.in**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammed afshan khatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed afshan khatri" height="30" width="40" /></a>
-<a href="https://kaggle.com/afshan khatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="afshan khatri" height="30" width="40" /></a>
-<a href="https://fb.com/afshan khatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afshan khatri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-afshan-khatri-b8845222a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-afshan-khatri-b8845222a/" height="30" width="40" /></a>
 <a href="https://instagram.com/_afshankhatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_afshankhatri" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mohd afshan khatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohd afshan khatri" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohd afshan khatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohd afshan khatri" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/mohd afshan khatri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="mohd afshan khatri" height="30" width="40" /></a>
-<a href="https://discord.gg/afshankhatri_33687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="afshankhatri_33687" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
