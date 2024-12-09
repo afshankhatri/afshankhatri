@@ -1,5 +1,5 @@
 <h1 align="center">Heyyaaa! Khatri Mohammed Afshan</h1>
-<h3 align="center">Code karo,BisKut khaoao! Passionate Computer Engg.</h3>
+<h3 align="center">Code karo,BisKut khaoao! Code karo,BisKut khaoao!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afshankhatri&label=Profile%20views&color=0e75b6&style=flat" alt="afshankhatri" /> </p>
 
