@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web-dev**
 
-- 📫 How to reach me **afshan.221725.cs@mhssce.ac.in**
+- 📫 How to reach me **mohdafshankhatri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
